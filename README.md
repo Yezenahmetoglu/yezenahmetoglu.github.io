@@ -1,1 +1,1 @@
-# http-yezenahmetoglu.github.io
+# yezenahmetoglu.github.io
